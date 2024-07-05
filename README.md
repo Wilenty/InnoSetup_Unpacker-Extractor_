@@ -1,5 +1,9 @@
 # InnoSetup 6.3.x - 6.4.x(-dev) (Unpacker/Extractor)
 
+[![Latest Version](https://img.shields.io/github/release/Wilenty/InnoSetup-6.3.x-6.4.x-dev_Unpacker-Extractor_.svg)](https://github.com/Wilenty/InnoSetup-6.3.x-6.4.x-dev_Unpacker-Extractor_/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-6.3.x-6.4.x-dev_Unpacker-Extractor_/total.svg)](https://github.com/Wilenty/InnoSetup-6.3.x-6.4.x-dev_Unpacker-Extractor_/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-6.3.x-6.4.x-dev_Unpacker-Extractor_/latest/total.svg)](https://github.com/Wilenty/InnoSetup-6.3.x-6.4.x-dev_Unpacker-Extractor_/releases/latest)
+
 At the outset. I know the names of (Inno) "Unpacker" and "Extractor" are taken, but I have not found suitable substitutes, so I had no choice...
 
 There are few programs of this type, but none of them correctly extracts (recreates/recovers) the *.iss script of IS 6.3.x-6.4.x(-dev), so I creted my own.
