@@ -6,6 +6,7 @@
 6.3.X - 6.4.X(-dev) v2.03: [![v2.03 Release Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup_Unpacker-Extractor_/v2.03/total.svg)](https://github.com/Wilenty/InnoSetup_Unpacker-Extractor_/releases/v2.03)
 5.5.Xee v2: [![v5.5.XeeV2 Release Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup_Unpacker-Extractor_/v5.5.XeeV2/total.svg)](https://github.com/Wilenty/InnoSetup_Unpacker-Extractor_/releases/v5.5.XeeV2)
 6.3.0 - 6.3.3+: [![v6.3.3+ Release Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup_Unpacker-Extractor_/v6.3.3+/total.svg)](https://github.com/Wilenty/InnoSetup_Unpacker-Extractor_/releases/v6.3.3+)
+Code-Password v0.1: [![v0.1 PreRelease Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup_Unpacker-Extractor_/v0.1/total.svg)](https://github.com/Wilenty/InnoSetup_Unpacker-Extractor_/releases/v0.1)
 
 At the outset. I know the names of (Inno) "Unpacker" and "Extractor" are taken, but I have not found suitable substitutes, so I had no choice...
 
